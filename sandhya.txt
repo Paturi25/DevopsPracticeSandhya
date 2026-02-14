@@ -3,3 +3,5 @@ Graduate: BTech
 Location: Banglore
 Native: Chittoor
 Company:IBM
+Father: Jayachandra Reddy
+Mother: Anuradha 
