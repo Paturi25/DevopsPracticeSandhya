@@ -5,4 +5,5 @@ Native: Chittoor
 Company:IBM
 Brother:Father
 Father: Jayachandra Reddy
-Mother: Anuradha 
+Mother: Anuradha
+GrandFather:Krishna reddy
