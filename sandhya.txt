@@ -8,3 +8,4 @@ Father: Jayachandra Reddy
 Mother: Anuradha
 GrandFather:Krishna reddy
 GrandMother: Lakshmi
+Fav: Sudarshan
