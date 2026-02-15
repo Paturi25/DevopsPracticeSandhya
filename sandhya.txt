@@ -9,6 +9,7 @@ Mother: Anuradha
 GrandFather:Krishna reddy
 GrandMother: Lakshmi
 Fav: Sudarshan
-Fav2: chinni
-Fav3: Bunny1
-Fav4: Siri
+Fav2: chinni1
+Fav3: Bunny
+Fav4: jimmyadd 1
+Fav4: Siri1
